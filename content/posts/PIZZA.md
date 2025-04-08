@@ -2,4 +2,4 @@
 title: PIZZA
 ---
 
-SALUT PIZZA
+SALUT PIZZA![](/wallace-gromit-les-inventuriers.jpg)
